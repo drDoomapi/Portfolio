@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, Myself Chirag Singh 
 
 Welcome to my portfolio!  
 I’m a **[your role – e.g., Frontend Developer / Full-Stack Developer / Software Engineer]** passionate about building clean, efficient, and user-friendly applications.
@@ -24,24 +24,6 @@ I’m a **[your role – e.g., Frontend Developer / Full-Stack Developer / Softw
 - Git & GitHub
 - Docker / VS Code / Figma
 - Databases (MongoDB, PostgreSQL, etc.)
-
----
-
-## 📂 Projects
-### 🔹 Project Name 1
-**Description:** Short explanation of what the project does  
-**Tech:** React, Node.js, MongoDB  
-**Repo:** [GitHub Link]  
-**Live Demo:** [Live Link]
-
----
-
-### 🔹 Project Name 2
-**Description:** Short explanation of the project  
-**Tech:** Python, Flask  
-**Repo:** [GitHub Link]
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
