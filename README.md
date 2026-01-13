@@ -1,4 +1,4 @@
-# 👋 Hi, Myself Chirag Singh 
+# 👋 Myself Chirag Singh 
 
 Welcome to my portfolio!  
 I’m a **[your role – e.g., Frontend Developer / Full-Stack Developer / Software Engineer]** passionate about building clean, efficient, and user-friendly applications.
